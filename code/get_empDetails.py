@@ -1,2 +1,0 @@
-from empDetails import Person
-
